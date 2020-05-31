@@ -1,0 +1,21 @@
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Game_21\Пятнашки\bin\Debug\Game_21.exe.config
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Game_21\Пятнашки\obj\Debug\Game_21.exe
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Game_21\Пятнашки\obj\Debug\Game_21.pdb
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Game_21\Пятнашки\obj\Debug\Game_21.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Game_21\Пятнашки\obj\Debug\Game_21.Form1.resources
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Game_21\Пятнашки\obj\Debug\Game_21.Form2.resources
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Game_21\Пятнашки\obj\Debug\Game_21.Properties.Resources.resources
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Game_21\Пятнашки\obj\Debug\Game_21.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Game_21\Пятнашки\bin\Debug\Game_21.exe
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Game_21\Пятнашки\bin\Debug\Game_21.pdb
+C:\Users\ld01\OneDrive\Рабочий стол\Game_21\Пятнашки\bin\Debug\Game_21.exe.config
+C:\Users\ld01\OneDrive\Рабочий стол\Game_21\Пятнашки\bin\Debug\Game_21.exe
+C:\Users\ld01\OneDrive\Рабочий стол\Game_21\Пятнашки\bin\Debug\Game_21.pdb
+C:\Users\ld01\OneDrive\Рабочий стол\Game_21\Пятнашки\obj\Debug\Game_21.csprojAssemblyReference.cache
+C:\Users\ld01\OneDrive\Рабочий стол\Game_21\Пятнашки\obj\Debug\Game_21.Form1.resources
+C:\Users\ld01\OneDrive\Рабочий стол\Game_21\Пятнашки\obj\Debug\Game_21.Form2.resources
+C:\Users\ld01\OneDrive\Рабочий стол\Game_21\Пятнашки\obj\Debug\Game_21.Properties.Resources.resources
+C:\Users\ld01\OneDrive\Рабочий стол\Game_21\Пятнашки\obj\Debug\Game_21.csproj.GenerateResource.cache
+C:\Users\ld01\OneDrive\Рабочий стол\Game_21\Пятнашки\obj\Debug\Game_21.csproj.CoreCompileInputs.cache
+C:\Users\ld01\OneDrive\Рабочий стол\Game_21\Пятнашки\obj\Debug\Game_21.exe
+C:\Users\ld01\OneDrive\Рабочий стол\Game_21\Пятнашки\obj\Debug\Game_21.pdb
