@@ -46,9 +46,9 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.играToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.начатьЗановоToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.закрытьИгруToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.правилаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.newGameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.closeGameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.rulesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
@@ -339,7 +339,7 @@
             this.menuStrip1.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.играToolStripMenuItem,
-            this.правилаToolStripMenuItem});
+            this.rulesToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1584, 24);
@@ -349,33 +349,33 @@
             // играToolStripMenuItem
             // 
             this.играToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.начатьЗановоToolStripMenuItem,
-            this.закрытьИгруToolStripMenuItem});
+            this.newGameToolStripMenuItem,
+            this.closeGameToolStripMenuItem});
             this.играToolStripMenuItem.Name = "играToolStripMenuItem";
             this.играToolStripMenuItem.Size = new System.Drawing.Size(46, 20);
             this.играToolStripMenuItem.Text = "Игра";
             // 
-            // начатьЗановоToolStripMenuItem
+            // newGameToolStripMenuItem
             // 
-            this.начатьЗановоToolStripMenuItem.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.начатьЗановоToolStripMenuItem.Name = "начатьЗановоToolStripMenuItem";
-            this.начатьЗановоToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
-            this.начатьЗановоToolStripMenuItem.Text = "Начать заново";
-            this.начатьЗановоToolStripMenuItem.Click += new System.EventHandler(this.начатьЗановоToolStripMenuItem_Click);
+            this.newGameToolStripMenuItem.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.newGameToolStripMenuItem.Name = "newGameToolStripMenuItem";
+            this.newGameToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.newGameToolStripMenuItem.Text = "Начать заново";
+            this.newGameToolStripMenuItem.Click += new System.EventHandler(this.newGameToolStripMenuItem_Click);
             // 
-            // закрытьИгруToolStripMenuItem
+            // closeGameToolStripMenuItem
             // 
-            this.закрытьИгруToolStripMenuItem.Name = "закрытьИгруToolStripMenuItem";
-            this.закрытьИгруToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
-            this.закрытьИгруToolStripMenuItem.Text = "Закрыть игру";
-            this.закрытьИгруToolStripMenuItem.Click += new System.EventHandler(this.закрытьИгруToolStripMenuItem_Click);
+            this.closeGameToolStripMenuItem.Name = "closeGameToolStripMenuItem";
+            this.closeGameToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.closeGameToolStripMenuItem.Text = "Закрыть игру";
+            this.closeGameToolStripMenuItem.Click += new System.EventHandler(this.closeGameToolStripMenuItem_Click);
             // 
-            // правилаToolStripMenuItem
+            // rulesToolStripMenuItem
             // 
-            this.правилаToolStripMenuItem.Name = "правилаToolStripMenuItem";
-            this.правилаToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
-            this.правилаToolStripMenuItem.Text = "Правила";
-            this.правилаToolStripMenuItem.Click += new System.EventHandler(this.правилаToolStripMenuItem_Click);
+            this.rulesToolStripMenuItem.Name = "rulesToolStripMenuItem";
+            this.rulesToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
+            this.rulesToolStripMenuItem.Text = "Правила";
+            this.rulesToolStripMenuItem.Click += new System.EventHandler(this.rulesToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -454,9 +454,9 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem играToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem начатьЗановоToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem закрытьИгруToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem правилаToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem newGameToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem closeGameToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem rulesToolStripMenuItem;
     }
 }
 

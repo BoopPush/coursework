@@ -394,7 +394,7 @@ namespace Game_21
         }
 
         //кнопка "правила" в меню
-        private void правилаToolStripMenuItem_Click(object sender, EventArgs e)
+        private void rulesToolStripMenuItem_Click(object sender, EventArgs e)
         {
             {
                 Form2 brows = new Form2();
@@ -403,13 +403,13 @@ namespace Game_21
         }
 
         //кнопка "новая игра" в меню
-        private void начатьЗановоToolStripMenuItem_Click(object sender, EventArgs e)
+        private void newGameToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Application.Restart();
         }
 
         //кнопка "закрыть" в меню
-        private void закрытьИгруToolStripMenuItem_Click(object sender, EventArgs e)
+        private void closeGameToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Close();
         }
