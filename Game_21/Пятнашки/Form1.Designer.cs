@@ -45,7 +45,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.играToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.gameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.newGameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.closeGameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.rulesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -338,7 +338,7 @@
             // 
             this.menuStrip1.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.играToolStripMenuItem,
+            this.gameToolStripMenuItem,
             this.rulesToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -346,14 +346,14 @@
             this.menuStrip1.TabIndex = 22;
             this.menuStrip1.Text = "menuStrip1";
             // 
-            // играToolStripMenuItem
+            // gameToolStripMenuItem
             // 
-            this.играToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.gameToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.newGameToolStripMenuItem,
             this.closeGameToolStripMenuItem});
-            this.играToolStripMenuItem.Name = "играToolStripMenuItem";
-            this.играToolStripMenuItem.Size = new System.Drawing.Size(46, 20);
-            this.играToolStripMenuItem.Text = "Игра";
+            this.gameToolStripMenuItem.Name = "gameToolStripMenuItem";
+            this.gameToolStripMenuItem.Size = new System.Drawing.Size(46, 20);
+            this.gameToolStripMenuItem.Text = "Игра";
             // 
             // newGameToolStripMenuItem
             // 
@@ -453,7 +453,7 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem играToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem gameToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem newGameToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem closeGameToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem rulesToolStripMenuItem;
